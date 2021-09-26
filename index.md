@@ -6,10 +6,10 @@
 
 Someone super wise once said:
 > I am not lazy, I am just still buffering
-> 
+
 And I can greatly relate to that, especially at the moment of making this webpage and trying to come up with ideas.
 
-So far, my life on campus is more like this:
+So far, my life on campus is more like this code snippet:
 ```
 while (on_campus) {
         classes()
@@ -21,4 +21,4 @@ while (on_campus) {
 ```
 My favorite video of all time is this video about ["How the universe was born"](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-The current link also descibes how [I look like doing this lab](Lab1.jpeg)
+The current image also descibes how [I look like doing this lab](Lab1.jpeg)
