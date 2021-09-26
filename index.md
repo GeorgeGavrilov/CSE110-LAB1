@@ -1,2 +1,24 @@
-### Gavrilov's User Page
-#Yo
+# Gavrilov's User Page
+***Warning: This Page is ~~Amazing~~ Awful***
+
+*This page only exists because my professor said that I need to create this*
+
+
+Someone super wise once said:
+> I am not lazy, I am just still buffering
+> 
+And I can greatly relate to that, especially at the moment of making this webpage and trying to come up with ideas.
+
+So far, my life on campus is more like this:
+```
+while (on_campus) {
+        classes()
+        eat();
+        do_random_stuff();
+        sleep();
+
+}
+```
+My favorite video of all time is this video about ["How the universe was born"](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+The current link also descibes how [I look like doing this lab](Lab1.jpeg)
