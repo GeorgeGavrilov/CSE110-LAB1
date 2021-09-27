@@ -1,4 +1,5 @@
 # Gavrilov's User Page
+
 ***Warning: This Page is ~~Amazing~~ Awful***
 
 *This page only exists because my professor said that I need to create this*
@@ -12,11 +13,10 @@ And I can greatly relate to that, especially at the moment of making this webpag
 So far, my life on campus is more like this code snippet:
 ```
 while (on_campus) {
-        classes()
+        classes();
         eat();
         do_random_stuff();
         sleep();
-
 }
 ```
 My favorite video of all time is this video about ["How the universe was born"](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -30,13 +30,14 @@ My favorite things to do:
 
 My least favorite things to do(but this time ordered 😲)
 1. Waking up early
-2. TOO much walking (e.g. alking back to my apartment across campus)
+2. TOO much walking (e.g. walking back to my apartment across campus)
 
-If you are wondering, my task list for today is:
-- [x] Drinking water
-- [ ] Finishing up the homework
+If you are wondering, my task list for today was:
+- [x]  Drinking water
+- [ ]  Finishing up the homework
 
-Thanks for looking checking this atrocious website!
+Thanks for checking out this atrocious website!
 
 ![Smiley face](Smile.png "Smiley logo")
 
+Now when you are at the very bottom of the website page, you can click [here](#-gavrilov's-user-page) to go back up again! (but why would you ever do that though?)
