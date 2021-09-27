@@ -22,3 +22,21 @@ while (on_campus) {
 My favorite video of all time is this video about ["How the universe was born"](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 The current image also descibes how [I look like doing this lab](Lab1.jpeg)
+
+My favorite things to do:
+- Sleeping
+- Walking
+- More sleeping
+
+My least favorite things to do(but this time ordered 😲)
+1. Waking up early
+2. TOO much walking (e.g. alking back to my apartment across campus)
+
+If you are wondering, my task list for today is:
+- [x] Drinking water
+- [ ] Finishing up the homework
+
+Thanks for looking checking this atrocious website!
+
+![Smiley face](Smile.png "Smiley logo")
+
